@@ -93,3 +93,11 @@ font-size: 0;
  color: #F15B31;
  font-weight: 700;
 }
+
+.button-properties {
+	font-size: 26px;
+	background-color: #F15B31;
+	color: #FFFFFF;
+	border: 2px solid black;
+	
+}
