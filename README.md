@@ -10,4 +10,3 @@
   <p>Used CSS and HTML for style and structure
       JavaScript was used for functionality
   </p>
-Hosted site:
